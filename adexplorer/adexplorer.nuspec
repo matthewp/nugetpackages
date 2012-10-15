@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>adexplorer</id>
+    <title>Active Directory Explorer</title>
+    <version>1.42</version>
+    <authors>Bryce Cogswell and Mark Russinovich</authors>
+    <owners>matthewphillips</owners>
+    <summary>Explorer for Active Directory</summary>
+    <description>Active Directory Explorer (AD Explorer) is an advanced Active Directory (AD) viewer and editor. You can use AD Explorer to easily navigate an AD database, define favorite locations, view object properties and attributes without having to open dialog boxes, edit permissions, view an object's schema, and execute sophisticated searches that you can save and re-execute.</description>
+    <projectUrl>http://technet.microsoft.com/en-us/sysinternals/bb963907.aspx</projectUrl>
+    <tags>ad active-directory</tags>
+    <licenseUrl>http://technet.microsoft.com/en-us/sysinternals/bb469936</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<releaseNotes></releaseNotes>-->
+  </metadata>
+</package>

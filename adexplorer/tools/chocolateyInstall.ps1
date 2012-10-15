@@ -1,0 +1,1 @@
+Install-ChocolateyZipPackage 'adexplorer' 'http://download.sysinternals.com/files/AdExplorer.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
